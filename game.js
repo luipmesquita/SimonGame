@@ -1,11 +1,11 @@
 // *** VARIABLES ***
 
 // Sound variables
-var greenSound = new Audio('/sounds/green.mp3');
-var redSound = new Audio('/sounds/red.mp3');
-var yellowSound = new Audio('/sounds/yellow.mp3');
-var blueSound = new Audio('/sounds/blue.mp3');
-var wrongSound = new Audio('/sounds/wrong.mp3');
+var greenSound = new Audio('sounds/green.mp3');
+var redSound = new Audio('sounds/red.mp3');
+var yellowSound = new Audio('sounds/yellow.mp3');
+var blueSound = new Audio('sounds/blue.mp3');
+var wrongSound = new Audio('sounds/wrong.mp3');
 
 // Game sequence
 var gameSequence = [];
